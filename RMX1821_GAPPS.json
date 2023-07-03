@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": ,
-      "filename": "",
-      "id": "",
+      "datetime": 1688410123,
+      "filename": "Arrow-v13.1-RMX1821-UNOFFICIAL-20230703-GAPPS.zip",
+      "id": "bfdc56e6772af8f6ca27adba961bcd22979f5f4f62d2bca31dba37c613fb885e",
       "romtype": "UNOFFICIAL",
       "zip_type": "GAPPS",
-      "size": ,
-      "url": "",
+      "size": 1427503760,
+      "url": "https://sourceforge.net/projects/custrom/files/ota/Arrow-v13.1-RMX1821-UNOFFICIAL-20230703-GAPPS.zip/download",
       "version": "arrow-13.1"
     }
   ]
